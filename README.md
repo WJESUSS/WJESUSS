@@ -50,9 +50,10 @@
 ## 🤖 Projetos Recentes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJESUSS&repo=LocationAwS&theme=tokyonight" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJESUSS&repo=Gerenciamento-despesas&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJESUSS&repo=Cadastro-Clientes-Spring-Boot&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJESUSS&repo=AndroidLocalizacao&theme=tokyonight" />
+
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WJESUSS&theme=tokyo-night&hide_border=true" />
 

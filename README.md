@@ -15,7 +15,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WJESUSS&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&locale=pt-br" />
+ 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJESUSS&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" />
 </p>
 

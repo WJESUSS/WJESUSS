@@ -1,4 +1,4 @@
-<h1 align="center">📊 Washington Santos</h1>
+<h1 align="center">📊 Washington Jesus dos Santos</h1>
 
 <p align="center">
   🎯 <strong>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</strong><br>
